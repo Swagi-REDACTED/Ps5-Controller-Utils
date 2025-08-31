@@ -5,15 +5,19 @@ first lemme say i made this for playing schedule 1 while my keyboard was broken 
 next lemme say I'll continue updating this as I see fit if people want and need updates ill provide them no one will ever use this though more than likely
 
 # Directions:
-pretty easy 1. Just install python 3.13 or similar
+pretty easy to setup
 
-2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" in powershell To install any missing dependencies
+1. Just install python 3.13 or similar.
 
-3. Run the CNK(Controller N' Keyoard).py script
+2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" in powershell To install any missing dependencies.
 
-4. if using the exe you should be good to skip steps 2 and 3 instead just run the exe after installing pythong
+3. Run the CNK(Controller N' Keyoard).py script.
 
-5. if for any reason the exe doesnt work please report the error and provide any logs you can
+4. if using the exe you should be good to skip steps 2 and 3 instead just run the exe after installing python.
+
+5. if for any reason the exe doesnt work please report the error and provide any logs you can.
+
+6. It should now be available from you're system tray set it up to you're liking and enjoy playing mnk games with a controller!!
 
 # Pasted commentsVV
 -- as such theres some compatibility options built in to help it work with you're preferred game 
