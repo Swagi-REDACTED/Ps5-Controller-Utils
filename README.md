@@ -13,9 +13,9 @@ pretty easy to setup
 
 3. Run the CNK(Controller N' Keyoard).py script it will open in system tray.
 
-4. if using the exe you should be good to skip steps 2 and 3 instead just run the exe after installing python.
+4. if using the exe you should be good to skip steps 2 and 3 instead just run the exe after installing python and it will start in system tray.
 
-5. if for any reason the exe doesnt work please report the error and provide any logs you can.
+5. if for any reason the exe doesnt work please report the error in Issues and provide any logs you can.
 
 6. It should now be available from you're system tray set it up to you're liking and enjoy playing mnk games with a controller!!
 
