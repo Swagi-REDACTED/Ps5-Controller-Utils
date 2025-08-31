@@ -32,7 +32,7 @@ pretty easy to setup
 
 
 # KNOWN ERRORS
-1. Deadzones dont work the default deadzone is alright but everyones deadzone preferences are different I've been struggling to make them work with this api im using but ill figure it out
+1. D̶e̶a̶d̶z̶o̶n̶e̶s̶ ̶d̶o̶n̶t̶ ̶w̶o̶r̶k̶ ̶t̶h̶e̶ ̶d̶e̶f̶a̶u̶l̶t̶ ̶d̶e̶a̶d̶z̶o̶n̶e̶ ̶i̶s̶ ̶a̶l̶r̶i̶g̶h̶t̶ ̶b̶u̶t̶ ̶e̶v̶e̶r̶y̶o̶n̶e̶s̶ ̶d̶e̶a̶d̶z̶o̶n̶e̶ ̶p̶r̶e̶f̶e̶r̶e̶n̶c̶e̶s̶ ̶a̶r̶e̶ ̶d̶i̶f̶f̶e̶r̶e̶n̶t̶ ̶I̶'̶v̶e̶ ̶b̶e̶e̶n̶ ̶s̶t̶r̶u̶g̶g̶l̶i̶n̶g̶ ̶t̶o̶ ̶m̶a̶k̶e̶ ̶t̶h̶e̶m̶ ̶w̶o̶r̶k̶ ̶w̶i̶t̶h̶ ̶t̶h̶i̶s̶ ̶a̶p̶i̶ ̶i̶m̶ ̶u̶s̶i̶n̶g̶ ̶b̶u̶t̶ ̶i̶l̶l̶ ̶f̶i̶g̶u̶r̶e̶ ̶i̶t̶ ̶o̶u̶t̶
 
 # Disclaimer
 I made this for Windows and as such it will almost certainly have errors on Linux post any in Issues and I might take a look but I'm lazy and dont use Linux so have no reason to make it work on Linux.
