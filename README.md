@@ -1,12 +1,12 @@
 # Ps5-Controller-Utils
 
-first lemme say i made this for playing schedule 1 while my keyboard was broken thank god for ai and the on-screen-keyboard ended up making it compatible with most any game.
+First, lemme say I made this for playing schedule 1 while my keyboard was broken. Thank god for AI and the on-screen keyboard! I ended up making it compatible with most any game.
 
-next lemme say I'll continue updating this as I see fit if people want and need updates I'll provide them although I doubt people will use this considering ds4 exists I primarily wanted this for enhanced mouse controls compared to ds4 but ended up just replacing ds4 entirely in favor of allowing 8 analog stick inputs for the left movement stick(I didnt forget about you lefty's theres support to swap left and right stick).
+Next, lemme say I'll continue updating this as I see fit. If people want and need updates, I'll provide them, although I doubt people will use this, considering DS4 exists. I primarily wanted this for enhanced mouse controls compared to DS4 but ended up just replacing DS4 entirely in favor of allowing eight analog stick inputs for the left movement stick (I didn't forget about you lefties—there's support to swap left and right sticks).
 
-also this is not a ds4 replacement it only allows dualsense to use kbm inputs also it may not work in all games especially games like siege or valorant with anticheats made specifically to block anti-recoil scripts which it may be falsely detected as.
+Also, this is not a DS4 replacement; it only allows DualSense to use KBM inputs. It may not work in all games, especially games like Siege or Valorant with anti-cheats made specifically to block anti-recoil scripts, which it may be falsely detected as.
 
-lastly this is only compatible with the dualsense controller for the ps5 most likely any other controller will not work and dualsense edge will likely work but no guarentee from me as I dont own one sorry rich people.
+Lastly, this is only compatible with the DualSense controller for the PS5. Most likely, any other controller will not work, and DualSense Edge will likely work, but there's no guarantee from me, as I don't own one. Sorry, rich people(this a joke incase you're soft)!
 
 # Directions:
 pretty easy to setup
