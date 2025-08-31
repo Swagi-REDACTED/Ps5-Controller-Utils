@@ -5,9 +5,13 @@ next lemme say I'll continue updating this as I see fit if people want and need 
 
 # Directions:
 pretty easy 1. Just install python 3.13 or similar
+
 2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" To install any missing dependencies
+
 3. Run the CNK(Controller N' Keyoard).py script
+
 4. if using the exe you should be good to skip steps 2 and 3 instead just run the exe after installing pythong
+
 5. if for any reason the exe doesnt work please report the error and provide any logs you can
 
 # Pasted commentsVV
