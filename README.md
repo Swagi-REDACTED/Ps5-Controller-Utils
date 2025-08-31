@@ -37,4 +37,4 @@ pretty easy to setup
 Fixed Deadzones!!
 
 # Disclaimer
-I made this for Windows and as such it will almost certainly have errors on Linux post any in Issues and I might take a look but I'm lazy and dont use Linux so have no reason to make it work on Linux.
+I made this for Windows and as such it will almost certainly have errors on Linux post any in Issues and I might take a look but I'm lazy and dont use Linux so have no reason to make it work on Linux I probably will one day once I stop being so lazy.
