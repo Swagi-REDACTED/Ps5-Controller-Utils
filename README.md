@@ -33,6 +33,7 @@ pretty easy to setup
 
 # KNOWN ERRORS
 ~~1. Deadzones dont work the default deadzone is alright but everyones deadzone preferences are different I've been struggling to make them work with this api im using but ill figure it out~~
+
 Fixed Deadzones
 
 # Disclaimer
