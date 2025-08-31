@@ -1,6 +1,6 @@
 # Ps5-Controller-Utils
 
-first lemme say i made this for playing schedule 1 while my keyboard was broken thank god for ai and the on-screen-keyboard ended up making it compatible with any game
+first lemme say i made this for playing schedule 1 while my keyboard was broken thank god for ai and the on-screen-keyboard ended up making it compatible with most any game
 
 next lemme say I'll continue updating this as I see fit if people want and need updates ill provide them no one will ever use this though more than likely
 
