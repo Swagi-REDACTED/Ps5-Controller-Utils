@@ -7,7 +7,7 @@ next lemme say I'll continue updating this as I see fit if people want and need 
 # Directions:
 pretty easy 1. Just install python 3.13 or similar
 
-2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" To install any missing dependencies
+2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" in powershell To install any missing dependencies
 
 3. Run the CNK(Controller N' Keyoard).py script
 
