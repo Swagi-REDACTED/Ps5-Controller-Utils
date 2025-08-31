@@ -21,3 +21,7 @@ pretty easy 1. Just install python 3.13 or similar
 -- if it doesnt work i suggest attempting to fix it yourself also please report any issues or incompatibilities to the github and ensure you post any fixes
 
 -- it will likely not work on games with aggressive ac scanning I.E. Valorant/Siege you'll have to test it yourself
+
+
+# KNOWN ERRORS
+1. Deadzones dont work the default deadzone is alright but everyones deadzone preferences are different I've been struggling to make them work with this api im using but ill figure it out
