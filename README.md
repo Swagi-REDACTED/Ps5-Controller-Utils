@@ -1,8 +1,12 @@
 # Ps5-Controller-Utils
 
-first lemme say i made this for playing schedule 1 while my keyboard was broken thank god for ai and the on-screen-keyboard ended up making it compatible with most any game
+first lemme say i made this for playing schedule 1 while my keyboard was broken thank god for ai and the on-screen-keyboard ended up making it compatible with most any game.
 
-next lemme say I'll continue updating this as I see fit if people want and need updates ill provide them no one will ever use this though more than likely
+next lemme say I'll continue updating this as I see fit if people want and need updates I'll provide them although I doubt people will use this considering ds4 exists I primarily wanted this for enhanced mouse controls compared to ds4 but ended up just replacing ds4 entirely in favor of allowing 8 analog stick inputs for the left movement stick(I didnt forget about you lefty's theres support to swap left and right stick).
+
+also this is not a ds4 replacement it only allows dualsense to use kbm inputs also it may not work in all games especially games like siege or valorant with anticheats made specifically to block anti-recoil scripts which it may be falsely detected as.
+
+lastly this is only compatible with the dualsense controller for the ps5 most likely any other controller will not work and dualsense edge will likely work but no guarentee from me as I dont own one sorry rich people.
 
 # Directions:
 pretty easy to setup
