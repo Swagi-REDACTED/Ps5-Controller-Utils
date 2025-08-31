@@ -11,7 +11,7 @@ pretty easy to setup
 
 2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" in powershell To install any missing dependencies.
 
-3. Run the CNK(Controller N' Keyoard).py script.
+3. Run the CNK(Controller N' Keyoard).py script it will open in system tray.
 
 4. if using the exe you should be good to skip steps 2 and 3 instead just run the exe after installing python.
 
