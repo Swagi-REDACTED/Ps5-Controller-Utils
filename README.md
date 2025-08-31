@@ -33,3 +33,6 @@ pretty easy to setup
 
 # KNOWN ERRORS
 1. Deadzones dont work the default deadzone is alright but everyones deadzone preferences are different I've been struggling to make them work with this api im using but ill figure it out
+
+# Disclaimer
+I made this for Windows and as such it will almost certainly have errors on Linux post any in Issues and I might take a look but I'm lazy and dont use Linux so have no reason to make it work on Linux.
