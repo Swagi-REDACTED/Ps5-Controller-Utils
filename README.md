@@ -11,6 +11,6 @@ pretty easy 1. Just install python 3.13 or similar
 5. if for any reason the exe doesnt work please report the error and provide any logs you can
 
 # Pasted commentsVV
- as such theres some compatibility options built in to help it work with you're preferred game 
- if it doesnt work i suggest attempting to fix it yourself also please report any issues or incompatibilities to the github and ensure you post any fixes
- it will likely not work on games with aggressive ac scanning I.E. Valorant/Siege you'll have to test it yourself
+== as such theres some compatibility options built in to help it work with you're preferred game 
+== if it doesnt work i suggest attempting to fix it yourself also please report any issues or incompatibilities to the github and ensure you post any fixes
+== it will likely not work on games with aggressive ac scanning I.E. Valorant/Siege you'll have to test it yourself
