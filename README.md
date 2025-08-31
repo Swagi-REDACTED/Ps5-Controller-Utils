@@ -24,7 +24,7 @@ pretty easy to setup
 6. It should now be available from you're system tray set it up to you're liking and enjoy playing mnk games with a controller!!
 
 # Pasted commentsVV
--- as such theres some compatibility options built in to help it work with you're preferred game 
+-- ... theres some compatibility options built in to help it work with you're preferred game 
 
 -- if it doesnt work i suggest attempting to fix it yourself also please report any issues or incompatibilities to the github and ensure you post any fixes
 
