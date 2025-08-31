@@ -7,7 +7,7 @@ next lemme say I'll continue updating this as I see fit if people want and need 
 # Directions:
 pretty easy to setup
 
-1. Just install python 3.13 or similar.
+1. install python 3.13 or similar(i.e. 3.11).
 
 2. Run "pip install pystray pillow pynput pydirectinput dualsense-controller" in powershell To install any missing dependencies.
 
